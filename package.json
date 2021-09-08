@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-bootstrap5",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.1",
+    "bootstrap": "^5.1.1",
+    "core-js": "^3.17.2",
+    "nuxt": "^2.15.8"
+  },
+  "devDependencies": {}
+}
